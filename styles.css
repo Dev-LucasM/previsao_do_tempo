@@ -62,15 +62,21 @@ h2{
 
 .temp {
     color: #ffffff;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 .descricao {
     color: #ffffff;
-    margin-top: 10px;
+    text-transform: capitalize;
 }
 
 .umidade {
     color: #ffffff;
-    margin-top: 10px;
+    margin-top: 30px;
+}
+
+.caixa-menor {
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
 }
